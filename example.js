@@ -1,5 +1,5 @@
 // U08201790
-// example.js
+// Thanish Bhaskar
 
 document.addEventListener("DOMContentLoaded", function() {
     d3.dsv(",", "data/purchase_orders.csv").then(function(data) {
